@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/progressview" />
+            <option value="$PROJECT_DIR$/screenshotsdemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
