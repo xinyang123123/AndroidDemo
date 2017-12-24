@@ -3,13 +3,14 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/.gradle" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/progressview" />
-            <option value="$PROJECT_DIR$/screenshotsdemo" />
+            <option value="$PROJECT_DIR$/CountdownView" />
+            <option value="$PROJECT_DIR$/ScreenShots" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
