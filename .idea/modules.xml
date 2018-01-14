@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidDemo.iml" filepath="$PROJECT_DIR$/AndroidDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/CountdownView/CountdownView.iml" filepath="$PROJECT_DIR$/CountdownView/CountdownView.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScreenShots/ScreenShots.iml" filepath="$PROJECT_DIR$/ScreenShots/ScreenShots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpdemo/mvpdemo.iml" filepath="$PROJECT_DIR$/mvpdemo/mvpdemo.iml" />
       <module fileurl="file://E:\AndroidProjects\AndroidDemo\CountdownView\progressview.iml" filepath="E:\AndroidProjects\AndroidDemo\CountdownView\progressview.iml" />
       <module fileurl="file://E:\AndroidProjects\AndroidDemo\ScreenShots\screenshotsdemo.iml" filepath="E:\AndroidProjects\AndroidDemo\ScreenShots\screenshotsdemo.iml" />
     </modules>

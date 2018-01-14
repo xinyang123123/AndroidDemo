@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/CountdownView" />
             <option value="$PROJECT_DIR$/ScreenShots" />
+            <option value="$PROJECT_DIR$/mvpdemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

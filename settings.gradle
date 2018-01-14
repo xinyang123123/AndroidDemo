@@ -1,1 +1,1 @@
-include ':CountdownView', ':ScreenShots'
+include ':CountdownView', ':ScreenShots', ':mvpdemo'
